@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+#hogwarts {
+padding-top:1%;
+width:35%;
+}
+
+.links {
+    display: inline;
+padding-left: 33px;
+padding-right: 25px;
+font-family: 'Pirata One', cursive;
+font-size: 20px;}
+
+.act_head
+{
+    font-size: 20px;
+    padding:6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.act_head i{
+    float: right;
+}
+
+
+.act_text span{
+color: goldenrod;
+}
+
+.act_text h5{ 
+    font-size:25px;
+}
+
+.act_text p{
+    font-size: 20px;
+}
+.bg-primary
+{
+    background-color:rgb(3, 171, 174);
+}
